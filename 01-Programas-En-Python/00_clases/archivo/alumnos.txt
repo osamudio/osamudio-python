@@ -1,0 +1,17 @@
+Cargando información de alumnos en el archivo 
+
+Nombre: Leonidas 
+Apellido: Escudero 
+-------
+Nombre: Lucas 
+Apellido: Cruz 
+-------
+Nombre: Leonel 
+Apellido: Cedeño 
+-------
+Nombre: Mario 
+Apellido: Ramirez 
+-------
+Nombre: Angel 
+Apellido: Martinez 
+-------

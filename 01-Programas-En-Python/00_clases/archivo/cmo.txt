@@ -1,0 +1,5 @@
+Bienvenido al sistema de monitoreo analista 1
+creado por: oscar samudio
+
+Aprendiendo python y otros lenguajes
+Fecha planificada : 25-Junio-2025
